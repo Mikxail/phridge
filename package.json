@@ -22,7 +22,8 @@
     "linerstream": "^0.1.4",
     "phantomjs": "^1.9.7-15",
     "temp": "^0.8.0",
-    "when": "^3.4.2"
+    "when": "^3.4.2",
+    "param-case": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
