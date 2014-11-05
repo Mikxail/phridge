@@ -18,12 +18,13 @@
     "forever"
   ],
   "dependencies": {
-    "fork-stream": "^0.0.4",
-    "linerstream": "^0.1.4",
+    "fork-stream": "git://github.com/mikxail/fork-stream#backport_node0.8",
+    "linerstream": "git://github.com/mikxail/linerstream#backport_node0.8",
     "phantomjs": "^1.9.7-15",
     "temp": "^0.8.0",
     "when": "^3.4.2",
-    "param-case": "^1.0.1"
+    "param-case": "^1.0.1",
+    "readable-stream": "^1.0.33"
   },
   "devDependencies": {
     "chai": "^1.9.1",
